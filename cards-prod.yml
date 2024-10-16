@@ -1,0 +1,18 @@
+#spring.application.name=cards
+
+
+build:
+  version: "3.5"
+
+
+
+cards:
+   message: "Welcome to card-production team support panel"
+   PrimaryContact:
+         email: "sumanth@cards.com"
+         post:  "5613526012"
+   onCallSupport:
+             - "123456869"
+
+
+

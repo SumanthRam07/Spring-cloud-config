@@ -1,0 +1,15 @@
+
+
+build:
+  version: "1.0"
+
+
+accounts:
+  message: " Welcome to the contact info of sumanth-account-microservices"
+  contactDetails:
+     name: "sumanth"
+     email: "sumanth123@gmail.com"
+  onCallSupport :
+    -123456789
+
+

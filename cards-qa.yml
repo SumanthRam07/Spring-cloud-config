@@ -1,0 +1,19 @@
+
+
+
+
+build:
+  version: "4.5"
+
+
+
+cards:
+   message: "Welcome to card-qa team support panel"
+   PrimaryContact:
+         email: "sumanth@cards.com"
+         post:  "5613526012"
+   onCallSupport:
+             - "123456869"
+
+
+

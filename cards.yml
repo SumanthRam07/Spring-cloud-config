@@ -1,0 +1,20 @@
+#spring.application.name=cards
+
+
+
+cards:
+  message: " Welcome to the contact info of cards-microservices"
+  contactDetails:
+    name: "sumanth"
+    email: "sumanth123@gmail.com"
+  onCallSupport :
+    -123456789
+
+
+
+
+
+build:
+  version: "3.5"
+
+

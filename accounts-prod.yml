@@ -1,0 +1,19 @@
+
+ build:
+  version: "2.0"
+
+
+ accounts:
+  message: " Welcome to the contact info of production lead of  sumanth-microservices"
+  contactDetails:
+     name: "sumanth-Gollaprolu"
+     email: "sumanth123@gmail.com"
+  onCallSupport :
+    -(561)-352-6012
+
+
+
+
+
+
+
