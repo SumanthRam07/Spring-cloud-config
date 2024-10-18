@@ -7,7 +7,7 @@ build:
 
 
 cards:
-   message: "Welcome to card-production team support panel"
+   message: "Welcome to card-production team support panel-run time chnage test"
    PrimaryContact:
          email: "sumanth@cards.com"
          post:  "5613526012"
