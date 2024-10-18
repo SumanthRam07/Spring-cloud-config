@@ -1,0 +1,25 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+
+
+
+
+
+build:
+  version: 2.0
+
+loans:
+  message: "Contact info of the  qa loans microservice"
+  contactDetails:
+    email: "sumanthLoans@123.com"
+    name: "loans_qa team"
+  onCallSupport:
+    - "5613526013"
+
+
+
+
+

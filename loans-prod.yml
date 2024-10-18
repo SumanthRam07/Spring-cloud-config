@@ -1,0 +1,18 @@
+
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+
+
+
+build:
+  version: 1.0
+
+loans:
+  message: "Contact  info of the loans _prod microservice"
+  contactDetails:
+      email: "sumanthLoans@123.com"
+      name: "loans team"
+  onCallSupport:
+       - "5613526013"

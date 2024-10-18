@@ -1,0 +1,11 @@
+
+spring:
+  profiles:
+    active: "qa"
+  application:
+    name: "loans"
+
+
+build:
+  version: 1.0
+
