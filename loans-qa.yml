@@ -12,7 +12,7 @@ build:
   version: 2.0
 
 loans:
-  message: "Contact info of the  qa loans microservice"
+  message: "Contact info of the  qa loans microservice-  chnaging using spring cloud bus""
   contactDetails:
     email: "sumanthLoans@123.com"
     name: "loans_qa team"
