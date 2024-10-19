@@ -7,7 +7,7 @@ build:
 
 
 cards:
-   message: "Welcome to card-production team support panel-run time chnage test-  chnaging using spring cloud bus now"
+   message: "Welcome to card-production team support panel-run time chnage test-  chnaging using spring cloud bus now -1"
    PrimaryContact:
          email: "sumanth@cards.com"
          post:  "5613526012"
