@@ -10,7 +10,7 @@ build:
   version: 1.0
 
 loans:
-  message: "Contact  info of the loans _prod microservice-  chnaging using spring cloud bus now - oct 23 /1"
+  message: "Contact  info of the loans _prod microservice-  chnaging using spring cloud bus now - oct 23 /2"
   contactDetails:
       email: "sumanthLoans@123.com"
       name: "loans team"
