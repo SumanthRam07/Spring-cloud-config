@@ -4,7 +4,7 @@
 
 
  accounts:
-  message: " Welcome to the contact info of production  lead of  accounts-microservices - chnaging using spring cloud bus now -oct-23/2"
+  message: " Welcome to the contact info of production  lead of  accounts-microservices - chnaging using spring cloud bus now -oct-23/3"
   contactDetails:
      name: "sumanth-Gollaprolu"
      email: "{cipher}b97276864fb91bc28f043d32cf767d8ab03e446748b289aad4a26b23aa828d22b5afbcb830d058980c658c5f06a5b16c"
