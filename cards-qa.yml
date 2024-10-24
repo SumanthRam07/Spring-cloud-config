@@ -8,7 +8,7 @@ build:
 
 
 cards:
-   message: "Welcome to card-qa team support panel= chnaging using spring cloud bus"
+   message: "Welcome to card-qa team support panel= chnaging using spring cloud bus - 23-oct"
    PrimaryContact:
          email: "sumanth@cards.com"
          post:  "5613526012"
