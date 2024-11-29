@@ -1,0 +1,42 @@
+
+server:
+  port: 8080
+
+
+
+spring:
+  application:
+     name: "GomathySchool"
+  datasource:
+      url: jdbc:h2:mem:testdb
+      driverClassName: org.h2.Driver
+      username: sa
+      password:
+  h2:
+    console:
+       enabled: true
+
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+       ddl-auto: update
+    show-sql: true
+
+
+build:
+  version: "5.0"
+
+
+
+
+library:
+  message: "contact details for the library default profile"
+  contactDetails:
+      name: "sumanth"
+      email: "sumanth1234@gmail.com"
+  onCallSupport:
+    - "5613526012"
+
+
+
+

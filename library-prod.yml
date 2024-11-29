@@ -1,0 +1,17 @@
+
+
+build:
+  version: "4.0"
+
+
+library:
+  message: "contact details for the library prod profile"
+  contactDetails:
+      name: "sumanth"
+      email: "sumanth1234@gmail.com"
+  onCallSupport:
+    - "5613526012"
+
+
+
+
