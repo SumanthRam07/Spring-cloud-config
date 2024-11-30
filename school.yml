@@ -21,19 +21,11 @@ spring:
     show-sql: true
 
 
-build:
-  version: "2.5"
 
 
 
 
-library:
-  message: "contact details for the library default profile"
-  contactDetails:
-      name: "sumanth"
-      email: "sumanth1234@gmail.com"
-  onCallSupport:
-    - "5613526012"
+
 
 
 
